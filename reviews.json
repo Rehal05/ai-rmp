@@ -1,0 +1,124 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Jane Smith",
+            "subject": "Introduction to Computer Science",
+            "stars": 5,
+            "review": "Dr. Smith provides clear explanations and is very approachable. Her passion for teaching is evident."
+        },
+        {
+            "professor": "Dr. John Doe",
+            "subject": "Data Structures and Algorithms",
+            "stars": 4,
+            "review": "Challenging course, but Dr. Doe's lectures are thorough. Be prepared for a heavy workload."
+        },
+        {
+            "professor": "Dr. Emily Davis",
+            "subject": "Discrete Mathematics",
+            "stars": 4,
+            "review": "Dr. Davis breaks down complex topics well. The course is tough but manageable."
+        },
+        {
+            "professor": "Dr. Michael Brown",
+            "subject": "Operating Systems",
+            "stars": 3,
+            "review": "Dr. Brown is knowledgeable, but his grading is harsh. Expect to put in a lot of work."
+        },
+        {
+            "professor": "Dr. Laura Wilson",
+            "subject": "Artificial Intelligence",
+            "stars": 5,
+            "review": "Fantastic professor! Dr. Wilson makes AI exciting and accessible. Highly recommended."
+        },
+        {
+            "professor": "Dr. Samuel Lee",
+            "subject": "Computer Networks",
+            "stars": 4,
+            "review": "Dr. Lee is very knowledgeable, but his lectures can be a bit dry. Overall, a solid course."
+        },
+        {
+            "professor": "Dr. Susan Martin",
+            "subject": "Software Engineering",
+            "stars": 5,
+            "review": "Dr. Martin is an amazing professor who connects theory with real-world applications."
+        },
+        {
+            "professor": "Dr. Robert Allen",
+            "subject": "Database Systems",
+            "stars": 3,
+            "review": "The course is informative, but Dr. Allen's teaching style is hard to follow at times."
+        },
+        {
+            "professor": "Dr. Linda Harris",
+            "subject": "Human-Computer Interaction",
+            "stars": 4,
+            "review": "Dr. Harris is very engaging and makes HCI fun to learn. The projects are particularly interesting."
+        },
+        {
+            "professor": "Dr. James Taylor",
+            "subject": "Theory of Computation",
+            "stars": 3,
+            "review": "Dr. Taylor knows his material, but the course is very abstract and difficult."
+        },
+        {
+            "professor": "Dr. Karen White",
+            "subject": "Operating Systems",
+            "stars": 4,
+            "review": "Dr. White is clear and organized. Her exams are tough but fair."
+        },
+        {
+            "professor": "Dr. William Thomas",
+            "subject": "Computer Architecture",
+            "stars": 4,
+            "review": "Dr. Thomas is passionate about the subject and is always willing to help students."
+        },
+        {
+            "professor": "Dr. Patricia Moore",
+            "subject": "Cybersecurity",
+            "stars": 5,
+            "review": "Dr. Moore's cybersecurity course is excellent. She makes complex topics understandable."
+        },
+        {
+            "professor": "Dr. Steven Miller",
+            "subject": "Data Mining",
+            "stars": 3,
+            "review": "Dr. Miller is very knowledgeable, but the course is fast-paced and difficult."
+        },
+        {
+            "professor": "Dr. Barbara Clark",
+            "subject": "Machine Learning",
+            "stars": 5,
+            "review": "Dr. Clark is fantastic! Her machine learning course is well-structured and very informative."
+        },
+        {
+            "professor": "Dr. George Martin",
+            "subject": "Natural Language Processing",
+            "stars": 4,
+            "review": "Dr. Martin is very approachable and provides great insights into NLP."
+        },
+        {
+            "professor": "Dr. Jessica Wright",
+            "subject": "Algorithms",
+            "stars": 4,
+            "review": "Dr. Wright's algorithms course is challenging but rewarding. She is an excellent teacher."
+        },
+        {
+            "professor": "Dr. Charles Johnson",
+            "subject": "Parallel Computing",
+            "stars": 3,
+            "review": "Dr. Johnson's course is informative but very demanding. You need to stay on top of the material."
+        },
+        {
+            "professor": "Dr. Nancy Adams",
+            "subject": "Quantum Computing",
+            "stars": 5,
+            "review": "Dr. Adams is a brilliant professor. Her quantum computing course is cutting-edge and fascinating."
+        },
+        {
+            "professor": "Dr. Kevin Davis",
+            "subject": "Web Development",
+            "stars": 4,
+            "review": "Dr. Davis is great at making web development fun and accessible. His projects are very hands-on."
+        }
+    ]
+}
